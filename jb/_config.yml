@@ -1,0 +1,13 @@
+# Book settings
+title: Data Structures and Information Retrieval in Python
+author: Allen B. Downey
+
+execute:
+  execute_notebooks: 'off'
+
+repository:
+  url: https://github.com/AllenDowney/DSIRP
+html:
+  use_repository_button: true
+launch_buttons:
+  binderhub_url:""
